@@ -15,7 +15,7 @@ echo "Datetime,Name,Organization,Email,Files Changed,Insertions,Deletions"
 git log \
   --use-mailmap \
   --no-merges   \
-  --pretty="%cI,%cN,%cE"  \
+  --pretty="%cI,%aN,%aE"  \
   --shortstat \
   "$@" \
 | sed -E '/^$/d' \

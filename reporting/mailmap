@@ -39,8 +39,6 @@ Alfranio Correia (Oracle) <alfranio.correia@oracle.com> Alfranio Correia <alfran
 Alfranio Correia (Sun) <alfranio.correia@sun.com> Alfranio Correia <alfranio.correia@sun.com>
 Alice Sherepa (Unknown) <alice.sherepa@gmail.com> Alice Sherepa <alice.sherepa@gmail.com>
 Allen Lai (Oracle) <zheng.lai@oracle.com> Allen Lai <zheng.lai@oracle.com>
-Anders Song (GreatOpenSource Inc.) <anders.song@greatopensource.com>   <anders.song@greatopensource.com>
-Anders Song (GreatOpenSource Inc.) <anders.song@greatopensource.com> unknown <anders.song@greatopensource.com>
 Andrei Elkin (MariaDB Corporation) <andrei.elkin@mariadb.com> Andrei Elkin <andrei.elkin@mariadb.com>
 Andrei Elkin (MariaDB Corporation) <andrei.elkin@mariadb.com> andrelkin <andrei.elkin@mariadb.com>
 Andrei Elkin (MariaDB Corporation) <andrei.elkin@pp.inet.fi> Andrei Elkin <andrei.elkin@pp.inet.fi>
@@ -90,9 +88,9 @@ Bjorn Munch (Oracle) <bjorn.munch@oracle.com> Bjorn Munch <bjorn.munch@oracle.co
 Bjorn Munch (Oracle) <bjorn.munch@oracle.com> unknown <bjorn.munch@oracle.com>
 Bjorn Munch (Sun) <Bjorn.Munch@sun.com> Bjorn Munch <Bjorn.Munch@sun.com>
 Bjorn Munch (Sun) <bjorn.munch@sun.com> Bjorn Munch <bjorn.munch@sun.com>
+Bo Thorsen (Canonical) <bo.thorsen@canonical.com> Bo Thorsen <bo.thorsen@canonical.com>
 Bo Thorsen (Monty Program) <bo@askmonty.org> Bo Thorsen <bo@askmonty.org>
 Bo Thorsen (Monty Program) <bo@askmonty.org> bo.thorsen <bo@sonofthor.dk>
-Bo Thorsen (Canonical) <bo.thorsen@canonical.com> Bo Thorsen <bo.thorsen@canonical.com>
 BohuTANG (No Organization) <overred.shuttler@gmail.com> BohuTANG <overred.shuttler@gmail.com>
 Bradley C. Kuszmaul (Tokutek) <bradley@tokutek.com> Bradley C. Kuszmaul <bradley@tokutek.com>
 Brave Galera Crew (Codership) <devel@codership.com> Brave Galera Crew <devel@codership.com>
@@ -165,15 +163,17 @@ Elena Stepanova (MariaDB Corporation) <elenst@mariadb.com> Elena Stepanova <elen
 Elena Stepanova (MariaDB Corporation) <elenst@mariadb.com> Elena Stepanova <elenst@jessie.home>
 Elena Stepanova (MariaDB Corporation) <elenst@mariadb.com> Elena Stepanova <elenst@linux-0bhr.suse>
 Elena Stepanova (MariaDB Corporation) <elenst@mariadb.com> Elena Stepanova <elenst@mariadb.com>
-Elena Stepanova (Monty Program) <elenst@mariadb.com> Elena Stepanova <elenst@montyprogram.com>
 Elena Stepanova (MariaDB Corporation) <elenst@mariadb.com> Elena Stepanova <elenst@opensuse.home>
 Elena Stepanova (MariaDB Corporation) <elenst@mariadb.com> Elena Stepanova <elenst@ubuntu11.home>
 Elena Stepanova (MariaDB Corporation) <elenst@mariadb.com> Elena Stepanova <elenst@wheezy-64.home>
 Elena Stepanova (MariaDB Corporation) <elenst@mariadb.com> elenst <elenst@gmail.com>
 Elena Stepanova (MariaDB Corporation) <elenst@mariadb.com> elenst <elenst@users.noreply.github.com>
+Elena Stepanova (Monty Program) <elenst@mariadb.com> Elena Stepanova <elenst@montyprogram.com>
 Eric Herman (Booking.com) <eric@freesa.org> Eric Herman <eric@freesa.org>
 Erlend Dahl (Oracle) <erlend.dahl@oracle.com> Erlend Dahl <erlend.dahl@oracle.com>
 Eugene Kosov (Tempesta) <claprix@yandex.ru> Eugene Kosov <claprix@yandex.ru>
+Eugene Kosov (Tempesta) <claprix@yandex.ru> kevg <claprix@yandex.ru>
+Eugene Kosov (Tempesta) <claprix@yandex.ru> kevgs <claprix@yandex.ru>
 Evgeny Potemkin (MySQL) <epotemkin@mysql.com> Evgeny Potemkin <epotemkin@mysql.com>
 Evgeny Potemkin (Oracle) <evgeny.potemkin@oracle.com> Evgeny Potemkin <evgeny.potemkin@oracle.com>
 FaramosCZ (No Organization) <mschorm@centrum.cz> FaramosCZ <mschorm@centrum.cz>
@@ -219,6 +219,7 @@ Hery Ramilison (Oracle) <hery.ramilison@oracle.com> unknown <hery.ramilison@orac
 Hery Ramilison (Sun) <hery.ramilison@sun.com> Hery Ramilison <hery.ramilison@sun.com>
 Hery Ramilison (Sun) <hery.ramilison@sun.com> hery (Sun) <hery.ramilison@sun.com> hery <hery.ramilison@sun.com>
 Hery Ramilison (Sun) <hery.ramilison@sun.com> unknown <hery.ramilison@sun.com>
+Holzboote (No Organization) <holzboote@googlemail.com> unknown <holzboote@googlemail.com>
 Honza Horak (Red Hat) <hhorak@redhat.com> Honza Horak <hhorak@redhat.com>
 Horst Hunger (MySQL) <horst@mysql.com> Horst Hunger <horst@mysql.com>
 Horst Hunger (Oracle) <horst.hunger@oracle.com> Horst Hunger <horst.hunger@oracle.com>
@@ -251,8 +252,8 @@ James Clarke (Debian) <jrtc27@debian.org> James Clarke <jrtc27@debian.org>
 James Le Cuirot (No Organization) <chewi@aura-online.co.uk> James Le Cuirot <chewi@aura-online.co.uk>
 James Taylor (No Organization) <james@jtaylor.id.au> James Taylor <james@jtaylor.id.au>
 Jan Lindström (MariaDB Corporation) <jan.lindstrom@mariadb.com> Jan Lindström <jan.lindstrom@mariadb.com>
-Jan Lindström (SkySQL) <jan.lindstrom@skysql.com> Jan Lindström <jan.lindstrom@skysql.com>
 Jan Lindström (MariaDB Corporation) <jplindst@mariadb.org> Jan Lindström <jplindst@mariadb.org>
+Jan Lindström (SkySQL) <jan.lindstrom@skysql.com> Jan Lindström <jan.lindstrom@skysql.com>
 Jan Wedvik (Sun) <jan.wedvik@sun.com> Jan Wedvik <jan.wedvik@sun.com>
 Jani Tolonen (No Organization) <jani.k.tolonen@gmail.com> Jani Tolonen <jani.k.tolonen@gmail.com>
 Jani Tolonen (No Organization) <jani.k.tolonen@gmail.com> jani <jani@work>
@@ -294,8 +295,6 @@ Julius Goryavsky (No Organization) <sysprg@gmail.com> Julius Goryavsky <sysprg@g
 Jun Su (Microsoft) <junsu@microsoft.com> Jun Su <junsu@microsoft.com>
 Jérôme Brauge (No Organization) <j.brauge@qualiac.com> Jerome Brauge <j.brauge@qualiac.com>
 Jérôme Brauge (No Organization) <j.brauge@qualiac.com> halfspawn <j.brauge@qualiac.com>
-Kevin Lewis (MySQL) <klewis@mysql.com> klewis@mysql.com <>
-Kevin Lewis (MySQL) <klewis@mysql.com> unknown <klewis@mysql.com>
 Kailasnath Nagarkar (Oracle) <kailasnath.nagarkar@oracle.com> Kailasnath Nagarkar <kailasnath.nagarkar@oracle.com>
 Karen Langford (Oracle) <karen.langford@oracle.com> Karen Langford <karen.langford@oracle.com>
 Karen Langford (Oracle) <karen.langford@oracle.com> karen.langford@oracle.com <>
@@ -320,6 +319,8 @@ Kent Boortz (Sun) <kent.boortz@sun.com> unknown <kent.boortz@sun.com>
 Kentoku Shiba (No Organization) <kentokushiba@gmail.com> Kentoku <kentokushiba@gmail.com>
 Kentoku Shiba (No Organization) <kentokushiba@gmail.com> Kentoku SHIBA <kentokushiba@gmail.com>
 Kentoku Shiba (No Organization) <root@kentoku14> root <root@kentoku14>
+Kevin Lewis (MySQL) <klewis@mysql.com> klewis@mysql.com <>
+Kevin Lewis (MySQL) <klewis@mysql.com> unknown <klewis@mysql.com>
 Kevin Lewis (Oracle) <kevin.lewis@oracle.com> kevin.lewis@oracle.com <>
 Kevin Lewis (Oracle) <kevin.lewis@oracle.com> unknown <kevin.lewis@oracle.com>
 Knut Anders Hatlen (Oracle) <knut.hatlen@oracle.com> Knut Anders Hatlen <knut.hatlen@oracle.com>
@@ -345,10 +346,12 @@ Leif Walsh (Tokutek) <leif.walsh@gmail.com> Leif Walsh <leif.walsh@gmail.com>
 Leif Walsh (Tokutek) <leif@tokutek.com> Leif Walsh <leif@tokutek.com>
 Leonard Zhou (MySQL) <leonard@mysql.com> Leonard Zhou <leonard@mysql.com>
 Leonard Zhou (Sun) <zhou.li@sun.com> Leonard Zhou <zhou.li@sun.com>
+Li-Bing Song (GreatOpenSource Inc.) <anders.song@greatopensource.com>   <anders.song@greatopensource.com>
+Li-Bing Song (GreatOpenSource Inc.) <anders.song@greatopensource.com> Libing Song <anders.song@greatopensource.com>
+Li-Bing Song (GreatOpenSource Inc.) <anders.song@greatopensource.com> unknown <anders.song@greatopensource.com>
+Li-Bing Song (Oracle) <libing.song@oracle.com> Libing Song <libing.song@oracle.com>
 Li-Bing Song (Sun) <Li-Bing.Song@sun.com>   <Li-Bing.Song@sun.com>
 Li-Bing Song (Sun) <Li-Bing.Song@sun.com> unknown <Li-Bing.Song@sun.com>
-Li-Bing Song (GreatOpenSource Inc.) <anders.song@greatopensource.com> Libing Song <anders.song@greatopensource.com>
-Li-Bing Song (Oracle) <libing.song@oracle.com> Libing Song <libing.song@oracle.com>
 Lixun Peng (MariaDB Foundation) <P.Linux@163.com> Lixun Peng <P.Linux@163.com>
 Lixun Peng (MariaDB Foundation) <lixun@mariadb.org> Lixun Peng <lixun@mariadb.org>
 Luis Soares (Oracle) <luis.soares@oracle.com> Luis Soares <luis.soares@oracle.com>
@@ -356,9 +359,9 @@ Luis Soares (Sun) <luis.soares@sun.com> Luis Soares <luis.soares@sun.com>
 MC Brown (Sun) <mc.brown@sun.com> MC Brown <mc.brown@sun.com>
 Magne Mahre (Oracle) <magne.mahre@oracle.com> Magne Mahre <magne.mahre@oracle.com>
 Magne Mahre (Sun) <magne.mahre@sun.com> Magne Mahre <magne.mahre@sun.com>
+Magnus Blåudd (Oracle) <magnus.blaudd@oracle.com> Magnus Blåudd <magnus.blaudd@oracle.com>
 Magnus Blåudd (Oracle) <magnus.blaudd@oracle.com> magnus.blaudd@oracle.com <>
 Magnus Blåudd (Oracle) <magnus.blaudd@oracle.com> unknown <magnus.blaudd@oracle.com>
-Magnus Blåudd (Oracle) <magnus.blaudd@oracle.com> Magnus Blåudd <magnus.blaudd@oracle.com>
 Magnus Blåudd (Sun) <magnus.blaudd@sun.com> Magnus Blåudd <magnus.blaudd@sun.com>
 Magnus Svensson (MySQL) <msvensson@mysql.com> Magnus Svensson <msvensson@mysql.com>
 Magnus Svensson (Sun) <magnus.svensson@sun.com> magnus.svensson@sun.com <>
@@ -373,15 +376,15 @@ Mario Karuza (Codership) <mario.karuza@gmail.com> Unknown <mario.karuza@gmail.co
 Mario Karuza (Codership) <mario.karuza@gmail.com> mkaruza <mario.karuza@gmail.com>
 Mario Weigel (Movio) <mario@movio.co> Mario Weigel <mario@movio.co>
 Mark Leith (Oracle) <mark.leith@oracle.com> Mark Leith <mark.leith@oracle.com>
+Marko Mäkelä (MariaDB Corporation) <marko.makela@mariadb.com> Marko Mäkelä <marko.makela@mariadb.com>
+Marko Mäkelä (Oracle) <marko.makela@oracle.com> Marko =?ISO-8859-1?Q?M=E4kel=E4?= <marko.makela@oracle.com>
 Marko Mäkelä (Oracle) <marko.makela@oracle.com> Marko Makela <marko.makela@oracle.com>
+Marko Mäkelä (Oracle) <marko.makela@oracle.com> Marko Makela <mmakela@bk-internal.mysql.com>
+Marko Mäkelä (Oracle) <marko.makela@oracle.com> Marko Mäkelä <marko.makela@oracle.com>
 Marko Mäkelä (Oracle) <marko.makela@oracle.com> marko <>
 Marko Mäkelä (Oracle) <marko.makela@oracle.com> marko <Unknown>
 Marko Mäkelä (Oracle) <marko.makela@oracle.com> mmakela <>
 Marko Mäkelä (Oracle) <marko.makela@oracle.com> mmakela <Unknown>
-Marko Mäkelä (MariaDB Corporation) <marko.makela@mariadb.com> Marko Mäkelä <marko.makela@mariadb.com>
-Marko Mäkelä (Oracle) <marko.makela@oracle.com> Marko =?ISO-8859-1?Q?M=E4kel=E4?= <marko.makela@oracle.com>
-Marko Mäkelä (Oracle) <marko.makela@oracle.com> Marko Makela <mmakela@bk-internal.mysql.com>
-Marko Mäkelä (Oracle) <marko.makela@oracle.com> Marko Mäkelä <marko.makela@oracle.com>
 Martin Hansson (MySQL) <mhansson@mysql.com> Martin Hansson <mhansson@mysql.com>
 Martin Hansson (Oracle) <martin.hansson@oracle.com> Martin Hansson <martin.hansson@oracle.com>
 Martin Hansson (Sun) <martin.hansson@sun.com> Martin Hansson <martin.hansson@sun.com>
@@ -401,9 +404,9 @@ Mayank Prasad (Oracle) <mayank.prasad@oracle.com> Mayank Prasad <mayank.prasad@o
 Michael Gmelin (No Organization) <mg@grem.de> Michael Gmelin <mg@grem.de>
 Michael Izioumtchenko (Oracle) <michael.izioumtchenko@oracle.com> michael.izioumtchenko@oracle.com <>
 Michael Izioumtchenko (Oracle) <michael.izioumtchenko@oracle.com> unknown <michael.izioumtchenko@oracle.com>
-Michael Widenius (Monty Program) <monty@askmonty.org> Michael Widenius <monty@askmonty.org>
 Michael Widenius (MariaDB Corporation and MariaDB Foundation) <monty@mariadb.org> Michael Widenius <monty@mariadb.org>
 Michael Widenius (MariaDB Corporation and MariaDB Foundation) <monty@mariadb.org> Monty <monty@mariadb.org>
+Michael Widenius (Monty Program) <monty@askmonty.org> Michael Widenius <monty@askmonty.org>
 Michael Widenius (MySQL) <monty@mysql.com> Michael Widenius <monty@mysql.com>
 Michal Schorm (Red Hat) <mschorm@redhat.com> Michal Schorm <mschorm@redhat.com>
 Mikael Ronstrom (MySQL) <mikael@mysql.com> Mikael Ronstrom <mikael@mysql.com>
@@ -430,8 +433,8 @@ Neha Kumari (Oracle) <neha.n.kumari@oracle.com> Neha Kumari <neha.n.kumari@oracl
 Nikita Malyavin (Tempesta) <nikitamalyavin@gmail.com> Nikita Malyavin <nikitamalyavin@gmail.com>
 Nirbhay Choubey (MariaDB Corporation) <nirbhay.choubey@gmail.com> Nirbhay Choubey <nirbhay.choubey@gmail.com>
 Nirbhay Choubey (MariaDB Corporation) <nirbhay@mariadb.com> Nirbhay Choubey <nirbhay@mariadb.com>
-Nirbhay Choubey (SkySQL) <nirbhay@skysql.com> Nirbhay Choubey <nirbhay@skysql.com>
 Nirbhay Choubey (Oracle) <nirbhay.choubey@oracle.com> Nirbhay Choubey <nirbhay.choubey@oracle.com>
+Nirbhay Choubey (SkySQL) <nirbhay@skysql.com> Nirbhay Choubey <nirbhay@skysql.com>
 Nirbhay Choubey (Sun) <nirbhay.choubey@sun.com> Nirbhay Choubey <nirbhay.choubey@sun.com>
 Nisha Gopalakrishnan (Oracle) <nisha.gopalakrishnan@oracle.com> Nisha <nisha.gopalakrishnan@oracle.com>
 Nisha Gopalakrishnan (Oracle) <nisha.gopalakrishnan@oracle.com> Nisha Gopalakrishnan <nisha.gopalakrishnan@oracle.com>
@@ -440,15 +443,15 @@ Nuno Carvalho (Oracle) <nuno.carvalho@oracle.com> Nuno Carvalho <nuno.carvalho@o
 Olav Sandstaa (Oracle) <olav.sandstaa@oracle.com> Olav Sandstaa <olav.sandstaa@oracle.com>
 Olav Sandstaa (Sun) <olav@sun.com> Olav Sandstaa <olav@sun.com>
 Ole John Aske (Oracle) <ole.john.aske@oracle.com> Ole John Aske <ole.john.aske@oracle.com>
+Oleksandr "Sanja" Byelkin (MariaDB Corporation) <sanja.byelkin@gmail.com> Oleksandr ""Sanja"" Byelkin <sanja.byelkin@gmail.com>
 Oleksandr "Sanja" Byelkin (MariaDB Corporation) <sanja.byelkin@gmail.com> Oleksandr "Sanja" Byelkin <sanja.byelkin@gmail.com>
 Oleksandr "Sanja" Byelkin (MariaDB Corporation) <sanja.byelkin@gmail.com> Oleksandr Byelkin <sanja@SanjaLaptop>
-Oleksandr "Sanja" Byelkin (MariaDB Corporation) <sanja.byelkin@gmail.com> Oleksandr ""Sanja"" Byelkin <sanja.byelkin@gmail.com>
-Oleksandr "Sanja" Byelkin (Monty Program) <sanja@askmonty.org> Oleksandr Byelkin <sanja@askmonty.org>
-Oleksandr "Sanja" Byelkin (Monty Program) <sanja@askmonty.org> unknown <sanja@askmonty.org>
 Oleksandr "Sanja" Byelkin (MariaDB Corporation) <sanja@mariadb.com> Oleksandr Byelkin <sanja@mariadb.com>
 Oleksandr "Sanja" Byelkin (MariaDB Corporation) <sanja@mariadb.org> Oleksandr Byelkin <sanja@mariadb.org>
-Oleksandr "Sanja" Byelkin (Monty Program) <sanja@montyprogram.com> unknown <sanja@montyprogram.com>
 Oleksandr "Sanja" Byelkin (MariaDB Corporation) <sanja@sanjaLaptopT> Oleksandr Byelkin <sanja@sanjaLaptopT>
+Oleksandr "Sanja" Byelkin (Monty Program) <sanja@askmonty.org> Oleksandr Byelkin <sanja@askmonty.org>
+Oleksandr "Sanja" Byelkin (Monty Program) <sanja@askmonty.org> unknown <sanja@askmonty.org>
+Oleksandr "Sanja" Byelkin (Monty Program) <sanja@montyprogram.com> unknown <sanja@montyprogram.com>
 Oleksandr "Sanja" Byelkin (Sun) <sanja@sun.com> unknown <sanja@sun.com>
 Oliver Giles (No Organization) <ohw.giles@gmail.com> Oliver Giles <ohw.giles@gmail.com>
 Olivier Bertrand (No Organization) <Olivier@UBUVIR> unknown <Olivier@UBUVIR>
@@ -491,11 +494,11 @@ Rasmus Johansson (MariaDB Corporation) <rasmus@mariadb.com> Rasmus Johansson <ra
 Rasmus Johansson (MariaDB Corporation) <ratzpo@gmail.com> Rasmus Johansson <ratzpo@gmail.com>
 Rasmus Johansson (MariaDB Corporation) <razze@iki.fi> Rasmus Johansson <razze@iki.fi>
 Ravinder Thakur (Oracle) <ravinder.thakur@oracle.com> Ravinder Thakur <ravinder.thakur@oracle.com>
-Rich Prohaska (Tokutek) <prohanka@tokutek.com> Rik Prohaska <prohaska7@gmail.com>
-Rich Prohaska (Tokutek) <prohanka@tokutek.com> Rich Prohaska <prohaska@Prohaska-2.local>
-Rich Prohaska (Tokutek) <prohanka@tokutek.com> prohaska <prohaska@lex2.(none)>
-Rich Prohaska (Tokutek) <prohanka@tokutek.com> Rich Prohaska <prohaska@mork.tokutek.com>
 Rich Prohaska (Tokutek) <prohanka@tokutek.com> RIch Prohaska <prohaska@tokutek.com>
+Rich Prohaska (Tokutek) <prohanka@tokutek.com> Rich Prohaska <prohaska@Prohaska-2.local>
+Rich Prohaska (Tokutek) <prohanka@tokutek.com> Rich Prohaska <prohaska@mork.tokutek.com>
+Rich Prohaska (Tokutek) <prohanka@tokutek.com> Rik Prohaska <prohaska7@gmail.com>
+Rich Prohaska (Tokutek) <prohanka@tokutek.com> prohaska <prohaska@lex2.(none)>
 Rich Prohaska (Tokutek) <prohaska@tokutek.com> Rich Prohaska <prohaska@tokutek.com>
 Rich Prohaska (Tokutek) <prohaska@tokutek.com> rich prohaska <prohaska@tokutek.com>
 Ritheesh Vedire (Oracle) <ritheesh.vedire@oracle.com> Ritheesh Vedire <ritheesh.vedire@oracle.com>
@@ -508,8 +511,8 @@ Ronak Jain (Microsoft) <ronakjain@outlook.in> Ronak Jain <ronakjain@outlook.in>
 Roy Lyseng (Oracle) <roy.lyseng@oracle.com> Roy Lyseng <roy.lyseng@oracle.com>
 Roy Lyseng (Sun) <roy.lyseng@sun.com> Roy Lyseng <roy.lyseng@sun.com>
 Rutuja Surve (MariaDB Foundation) <rutuja.r.surve@gmail.com> Rutuja Surve <rutuja.r.surve@gmail.com>
-Sachin Setiya (MariaDB Corporation) <sachin.setiya@mariadb.com> Sachin <sachin.setiya@mariadb.com>
 Sachin Agarwal (Oracle) <sachin.z.agarwal@oracle.com> Sachin Agarwal <sachin.z.agarwal@oracle.com>
+Sachin Setiya (MariaDB Corporation) <sachin.setiya@mariadb.com> Sachin <sachin.setiya@mariadb.com>
 Sachin Setiya (MariaDB Corporation) <sachin.setiya@mariadb.com> Sachin Setiya <sachin.setiya@mariadb.com>
 Sachin Setiya (MariaDB Corporation) <sachin.setiya@mariadb.com> Sachin Setiya <sachin.setiya@maridb.com>
 Sachin Setiya (MariaDB Corporation) <sachin.setiya@mariadb.com> sachin <sachin.setiya@mariadb.com>
@@ -518,8 +521,8 @@ Sachin Setiya (MariaDB Corporation) <sachinsetia1001@gmail.com> Sachin Setiya <s
 Sachin Setiya (MariaDB Corporation) <sachinsetia1001@gmail.com> SachinSetiya <sachinsetia1001@gmail.com>
 Saikumar V (Sun) <saikumar.v@sun.com> Saikumar V <saikumar.v@sun.com>
 Sandeep Doddaballapur (Sun) <sandeep.doddaballapur@sun.com> Sandeep Doddaballapur <sandeep.doddaballapur@sun.com>
-Satya Bodapati (Sun) <satya.bn@sun.com> Satya B <satya.bn@sun.com>
 Satya Bodapati (Oracle) <satya.bodapati@oracle.com> Satya Bodapati <satya.bodapati@oracle.com>
+Satya Bodapati (Sun) <satya.bn@sun.com> Satya B <satya.bn@sun.com>
 Sauron (No Organization) <git@sauron.cf> Sauron <git@sauron.cf>
 Sayantan Dutta (Oracle) <sayantan.dutta@oracle.com> Sayantan Dutta <sayantan.dutta@oracle.com>
 Sayantan Dutta (Oracle) <sayantan.dutta@oracle.com> sayantan dutta <sayantan.dutta@oracle.com>
@@ -583,8 +586,8 @@ Sven Sandberg (Sun) <sven.sandberg@sun.com> Sven Sandberg <sven.sandberg@sun.com
 Takashi Sasaki (No Organization) <tsasaki609@gmail.com> Takashi Sasaki <tsasaki609@gmail.com>
 Tao ZHOU (No Organization) <angeloudy@gmail.com> Tao ZHOU <angeloudy@gmail.com>
 Tao ZHOU (No Organization) <angeloudy@gmail.com> angeloudy <angeloudy@yahoo.com>
-Tatiana Azundris Nuernberg (Oracle) <tatjana.nuernberg@oracle.com> Tatiana Azundris Nuernberg <tatjana.nuernberg@oracle.com>
 Tatiana Azundris Nuernberg (MySQL) <azundris@mysql.com> Tatiana A. Nurnberg <azundris@mysql.com>
+Tatiana Azundris Nuernberg (Oracle) <tatjana.nuernberg@oracle.com> Tatiana Azundris Nuernberg <tatjana.nuernberg@oracle.com>
 Tatiana Azundris Nuernberg (Sun) <azundris@sun.com> Tatiana Azundris Nurnberg <azundris@sun.com>
 Tatjana Azundris Nuernberg (Oracle) <tatjana.nuernberg@oracle.com> Tatjana Azundris Nuernberg <tatjana.nuernberg@oracle.com>
 Teemu Ollakka (Codership) <teemu.ollakka@codership.com> Teemu Ollakka <teemu.ollakka@codership.com>
@@ -617,7 +620,6 @@ Tomas Ulin (Sun) <tomas.ulin@sun.com> Tomas Ulin <tomas.ulin@sun.com>
 Tor Didriksen (Oracle) <tor.didriksen@oracle.com> Tor Didriksen <tor.didriksen@oracle.com>
 Tor Didriksen (Sun) <tor.didriksen@sun.com> Tor Didriksen <tor.didriksen@sun.com>
 Unknown (No Organization) <Unknown> unknown <Unknown>
-Holzboote (No Organization) <holzboote@googlemail.com> unknown <holzboote@googlemail.com>
 Vadim Tkachenko (Percona) <vadim@percona.com> Vadim Tkachenko <vadim@percona.com>
 Vamsikrishna Bhagi (Oracle) <vamsikrishna.bhagi@oracle.com> Vamsikrishna Bhagi <vamsikrishna.bhagi@oracle.com>
 Varun Gupta (MariaDB Corporation) <varun.gupta@mariadb.com> Varun Gupta <varun.gupta@mariadb.com>
@@ -693,16 +695,12 @@ akuzminsky (Unknown) <akuzminsky@localhost.localdomain> akuzminsky <akuzminsky@l
 akuzminsky (Unknown) <akuzminsky@rm1u02> akuzminsky <akuzminsky@sm1u02>
 andrew (No Organization) <andrew@atlantis4> andrew <andrew@atlantis4>
 andrew (No Organization) <andrew@madev.eaglenest> andrew <andrew@madev.eaglenest>
-calvin (Unknown) <Unknown> calvin <>
-calvin (Unknown) <Unknown> calvin <Unknown>
 dirtysalt (No Organization) <dirtysalt1987@gmail.com> dirtysalt <dirtysalt1987@gmail.com>
 f4rnham (No Organization) <f4rnham@PC.none> f4rnham <f4rnham@PC.none>
 f4rnham (No Organization) <f4rnham@users.noreply.github.com> f4rnham <f4rnham@users.noreply.github.com>
 fran (No Organization) <kahun@scriabin.(none)> fran <kahun@scriabin.(none)>
 gvtek (No Organization) <34262684+gvtek@users.noreply.github.com> gvtek <34262684+gvtek@users.noreply.github.com>
 josh4trunks (No Organization) <joshruehlig@gmail.com> josh4trunks <joshruehlig@gmail.com>
-kevg (No Organization) <claprix@yandex.ru> kevg <claprix@yandex.ru>
-kevg (No Organization) <claprix@yandex.ru> kevgs <claprix@yandex.ru>
 klemens (No Organization) <ka7@github.com> klemens <ka7@github.com>
 luz.paz (Unknown) <luzpaz@users.noreply.github.com> luz.paz <luzpaz@users.noreply.github.com>
 mysql-builder (Oracle) <mysql-builder@oracle.com> mysql-builder@oracle.com <>
